@@ -44,6 +44,6 @@ formel.addEventListener("submit",(event)=>{
 })
 showbtn.addEventListener("click",(event)=>{
     event.preventDefault()
-    page=2;
+    page=1;
     searchimages();
 })
